@@ -1,0 +1,16 @@
+build/
+dist/
+*.log
+outputs/
+.runtime/
+scripts/__pycache__/
+.env
+models/whisper-base.TOP_WORLD.tflite
+models/whisper-small.tflite
+models/whisper-small.TOP_WORLD.tflite
+models/faster-whisper-tiny/
+models/faster-whisper-small/
+models/faster-whisper-medium/
+models/Qwen2.5-0.5B-Instruct/
+models/whisper-small-cantonese-yue-english/
+models/deepfilter/

@@ -1,0 +1,17 @@
+Speaker 1 (English):
+Hello, this is speaker one. We are testing a multilingual conversation.
+
+Speaker 2 (Mandarin):
+你好，我是说话二。这是一段中文测试对话。
+
+Speaker 3 (Malay):
+Helo, saya penutur ketiga. Ini ialah ujian perbualan Bahasa Melayu.
+
+Speaker 4 (Cantonese):
+你好，我係講者四。這是一段粵語對話測試。
+
+Speaker 1 (English):
+Speaker one again. Now we switch back to English.
+
+Speaker 3 (Malay):
+Penutur ketiga sekali lagi. Sekarang kami sambung dalam Bahasa Melayu.
